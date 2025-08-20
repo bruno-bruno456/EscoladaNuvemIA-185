@@ -24,6 +24,6 @@ valor_por_hora = float(input("Insira o valor da hora trabalhada: "))
 salario = horas_trabalhadas * valor_por_hora
 
 # Exibição do resultado (saída de dados)
-print("\n=== Dados do funcionário ===")
+print("\n\n=== Dados do funcionário ===")
 print(f"Número do funcionário: {numero_funcionario}")
 print(f"Salário = R$ {salario:.2f}")
