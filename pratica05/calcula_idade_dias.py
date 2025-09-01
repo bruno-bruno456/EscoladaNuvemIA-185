@@ -17,4 +17,4 @@ ano_nascimento = int(input("Digite o ano de nascimento: "))
 idade_dias = calcular_idade_dias(ano_nascimento)
 
 # Saída dos dados, exibição do resultado
-print(f"Sua idade aproximada em dias é {idade_dias} dias.")
+print(f"Sua idade aproximada em dias é {idade_dias} dias")
